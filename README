@@ -1,1 +1,3 @@
 Yet another password generator. Customizable character sets.
+
+Generates combinations of characters with given size boundaries and stores them in file.
